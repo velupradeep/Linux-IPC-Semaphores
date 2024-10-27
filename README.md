@@ -2,23 +2,24 @@
 # REG NO:212223240119
 # EX-05 Linux-IPC-Semaphores
 
+# AIM:
 
-Ex05-Linux IPC-Semaphores
-
-AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
-DESIGN STEPS:
+# DESIGN STEPS:
 Step 1:
+
 Navigate to any Linux environment installed on the system or installed inside a virtual environment like virtual box/vmware or online linux JSLinux (https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192) or docker.
 
 Step 2:
+
 Write the C Program using Linux Process API - Sempahores
 
 Step 3:
+
 Execute the C Program for the desired output.
 
-PROGRAM:
+# PROGRAM:
 
 
 Write a C program that implements a producer-consumer system with two processes using Semaphores.
@@ -108,9 +109,9 @@ if(NUM_LOOPS>=10)    {
     return 0;}
 ```
 
-OUTPUT
+# OUTPUT
 ![image](https://github.com/user-attachments/assets/49adba27-e8a4-4506-99ea-ff8b86005f5b)
 
 
-RESULT:
+# RESULT:
 The program is executed successfully.
